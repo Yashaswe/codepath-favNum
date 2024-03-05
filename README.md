@@ -33,6 +33,9 @@ The following EXTRA features are implemented:
 
 - [ ] List anything else that you added to improve the app!
 
+<img width="305" alt="Screenshot 2024-03-04 at 23 15 28" src="https://github.com/Yashaswe/codepath-favNum/assets/86225904/8512d33f-4112-4db7-b57a-b108c70630fd">
+
+
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
