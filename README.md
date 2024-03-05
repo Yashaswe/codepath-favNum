@@ -37,9 +37,21 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://github.com/Yashaswe/codepath-favNum/assets/86225904/8322b112-d627-4488-a04d-b837b56060fd' title='Video Demo' width='200' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+<img src='https://github.com/Yashaswe/codepath-favNum/assets/86225904/3eba63ae-699b-4cd8-8e96-98b08ba4fb80' title='Video Demo' width='200' alt='Video Demo' />
+
+<img src='https://github.com/Yashaswe/codepath-favNum/assets/86225904/d4394422-53fa-43b7-b1ff-7d24cf2c572d' title='Video Demo' width='200' alt='Video Demo' />
+
+<img src='https://github.com/Yashaswe/codepath-favNum/assets/86225904/59e0b562-6206-4e35-9867-796c880469cb' title='Video Demo' width='200' alt='Video Demo' />
+
+<img src='https://github.com/Yashaswe/codepath-favNum/assets/86225904/3aa0ee9a-2d6e-4358-9b75-af464f61c425' title='Video Demo' width='200' alt='Video Demo' />
+
+<img src='https://github.com/Yashaswe/codepath-favNum/assets/86225904/10f2c64c-4397-49d5-b84d-10d77770cdfc' title='Video Demo' width='200' alt='Video Demo' />
+
+
+
+GIF created with **ezgif**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
@@ -52,7 +64,7 @@ Here's a place for any other notes on the app, it's creation process, or what yo
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright **yyyy** **Yashaswe Amatya**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
